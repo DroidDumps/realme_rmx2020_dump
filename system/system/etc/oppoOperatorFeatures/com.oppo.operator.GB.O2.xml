@@ -1,0 +1,8 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.mms.read.report" />
+  <feature name="oppo.mms.disable.text.sms.convert.mms" />
+  <feature name="oppo.mms.sms.center.edit.disable" />
+  <feature name="oppo.mms.support.group.mms" />
+  <feature name="com.oppo.android.feature.PAI" />
+</permissions>
